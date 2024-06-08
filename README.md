@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Al Novianti Ramadhani Sulaksono
 
-<iframe src="https://giphy.com/embed/ptzlRfMuHaGgccUzbh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hack-hacking-hello-world-ptzlRfMuHaGgccUzbh">via GIPHY</a></p>
-
 Welcome to my GitHub profile! Here you'll find a variety of projects and repositories showcasing my skills and interests. Let's connect and collaborate!
 
 ## 🚀 About Me
